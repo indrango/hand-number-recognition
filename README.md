@@ -12,7 +12,7 @@ This repo contains script for training and testing Hand Number Recognition. We c
 * Argparse
 
 ## Download the model
-Cooming soon ..
+You can download the dataset [here](https://drive.google.com/file/d/1itTa-Pf70cQnPwgY8EDYRPvNv9GUtxU8/view?usp=sharing)
 
 ## Testing
 For testing model using webcam with parameters -m for models, -l for label and -i for input video.
